@@ -16,7 +16,7 @@ import com.vaadin.flow.server.menu.MenuConfiguration;
 import com.vaadin.flow.server.menu.MenuEntry;
 import com.vaadin.flow.theme.lumo.LumoUtility;
 import java.util.List;
-
+///hola
 /**
  * The main view is a top-level placeholder for other views.
  */
